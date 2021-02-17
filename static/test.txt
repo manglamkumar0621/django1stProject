@@ -1,0 +1,2 @@
+This is test static file.
+Test successful
